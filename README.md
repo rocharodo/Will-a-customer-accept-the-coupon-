@@ -118,6 +118,8 @@ Drivers that go more than once a month and are under the age of 30
             This could be an alternative for those that did not accept the coupon.
         </li>
         <li>As mentioned before, there is no information about what the discount is, but variations of the discount depending on the business might attract more customers. <br></li>
+        <li>Drivers that go more than 8 times a month to any business are less likely to accept the coupon.<br>
+        So, a different type of discount maybe necessary like a loyalty card that gives them other discounts.</li>
     </ol>
 </div>
 
