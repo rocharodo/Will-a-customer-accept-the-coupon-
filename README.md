@@ -108,6 +108,16 @@ Drivers that go more than once a month and are under the age of 30
 </ol>
     
 </div>
+<div>
+    <h1>Recommendatios</h1>
+    <ol>
+        <li>
+            Considering that the Take away coupon is the most popular and the Bar coupon the least popular. <br>Changing the expiry date of the Bar coupon could attract more customers, although there is no evidence in the information given but drink driving might be a consideration for not accepting the coupon.
+        </li>
+        <li></li>
+    </ol>
+</div>
+
 
 <div style="background-image: linear-gradient(315deg, #fec84e 0%, #ffdea8 74%);">
     <h1>Comparison Table</h1>
