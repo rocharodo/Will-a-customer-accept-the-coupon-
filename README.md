@@ -184,5 +184,7 @@ Drivers that go more than once a month and are under the age of 30
 </table>    
 </div>
 <div>
+    <h1>Plots</h1>
+    <p>We can see in the following plots the distribution of all coupons in relation to the type of passengers and the frequency of their visits</p>
     <img src='images/couponanalysis_5.png'/>
 </div>
