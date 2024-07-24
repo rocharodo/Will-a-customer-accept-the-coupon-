@@ -7,8 +7,8 @@ The goal of this project is to use what you know about visualizations and probab
     <li>Based on this investigation, drivers that go to a bar more than once a month, have passengers that are not a kid and are not widowed seem to be the best candidates for accepting the coupons.
 </li>
     <li>Age does not seem to be a deterministic factor as we can see people under the age of 30 have a very similar acceptance rate to those over the age of 25. Perhaps further investigation is needed as there is an overlap with age 26 as it is on both samples</li>
-    <li>Drivers with a Kid(s) as a passenger seem to be less responsive to the coupons</li>
-    <li>Those drivers that go to a bar more than once a month are keener to accept the coupon</li>
+    <li>Drivers with a Kid(s) as a passenger are less responsive to the Bar coupons</li>
+    <li>Those drivers that go to a bar more than once a month are keener to accept the Bar coupon</li>
 </ol>    
 </div>
 
@@ -56,7 +56,7 @@ The goal of this project is to use what you know about visualizations and probab
 
 <div style="background-color: #f9fcff;background-image: linear-gradient(147deg, #f9fcff 0%, #dee4ea 74%);">
 <h1>Independent Investigation</h1>
-<p>The following observations are a result of the analysis carried out in the table and plots below as they give a very comprenhensive view of coupon acceptance among drivers.</p>
+<p>The following observations are a result of the analysis carried out in the table and plots below, as they give a very comprenhensive view of the coupon acceptance among drivers.</p>
     
 <h2>Observations</h2>
 <ol>
