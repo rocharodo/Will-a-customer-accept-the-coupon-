@@ -17,6 +17,9 @@ The goal of this project is to use what you know about visualizations and probab
     <li>
         There is no information about what the discount is, perhaps increasing the discount would attract more drivers to accept the coupon
     </li>
+    <li>
+Increasing the expiry date of the Bar coupon could attract more customers.        
+    </li>
 </ol>
 
 <div style="background-color: #fec84e;background-image: linear-gradient(315deg, #fec84e 0%, #ffdea8 74%);">
