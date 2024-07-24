@@ -112,7 +112,7 @@ Drivers that go more than once a month and are under the age of 30
     <h1>Recommendatios</h1>
     <ol>
         <li>
-            Considering that the Bar coupon the least popular. <br>Changing the expiry date of the Bar coupon could attract more customers. <br>Also, there is no evidence of this in the information provided but perhaps drink driving might be a restriction for accepting the coupon.
+            Considering that the Bar coupon is the least popular. <br>Changing the expiry date of the Bar coupon could attract more customers. <br>Also, there is no evidence of this in the information provided but perhaps drink driving might be a restriction for accepting the coupon.
         </li>
         <li>Rather than inviting the customer to go to the business premises, perhaps, home delivery would be a more attractive option for the drivers.<br> 
             This could be an alternative for those that did not accept the coupon.
