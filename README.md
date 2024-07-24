@@ -1,4 +1,4 @@
-# Will-a-customer-accept-the-coupon-
+# Will a customer accept the coupon?
 The goal of this project is to use what you know about visualizations and probability distributions to distinguish between customers who accepted a driving coupon versus those that did not.
 <div style="background-color: #f9fcff;background-image: linear-gradient(147deg, #f9fcff 0%, #dee4ea 74%);">
 <h1>Observations</h1>
