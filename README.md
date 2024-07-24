@@ -189,5 +189,6 @@ Drivers that go more than once a month and are under the age of 30
     <img src='images/couponanalysis_5.png'/>
 </div>
 <div>
+    <h2>Same analysis performed in section 1 for Bar coupon but this time for all coupons</h2>
     <img src='images/couponanalysis_2_6.png'/>    
 </div>
