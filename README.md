@@ -6,7 +6,7 @@ The goal of this project is to use what you know about visualizations and probab
     <li>Bar coupons not seem to be very popular among this population as only 41% of the population accepted the Bar coupon</li>
     <li>Drivers that go to a bar more than once a month, have passengers that are not a kid and are not widowed seem to be the best candidates for accepting the Bar coupons.
 </li>
-    <li>Age does not seem to be a deterministic factor as we can see people under the age of 30 that have a very similar acceptance rate to those over the age of 25. <br>Perhaps further investigation is needed as there is an overlap with age 26 as it is on both samples</li>
+    <li>Age does not seem to be a deterministic factor as we can see people under the age of 30 that have a very similar acceptance rate to those over the age of 25. <br>However, 60% of age 41 that go less than 1 times per month accepted the Bar coupon </li>
     <li>Drivers with a Kid(s) as a passenger are less responsive to the Bar coupons</li>
     <li>Those drivers that go to a bar more than once a month are more likely to accept the Bar coupon</li>
 </ol>    
