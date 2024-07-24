@@ -183,3 +183,6 @@ Drivers that go more than once a month and are under the age of 30
         </tbody>
 </table>    
 </div>
+<div>
+    <img src='images/couponanalysis_5.png'/>
+</div>
